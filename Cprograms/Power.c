@@ -1,13 +1,13 @@
 #include <stdio.h>
 #include <math.h>
 int main(){
-    int power;
-    int base,exponent;
+    long long int power;
+    long long int base,exponent;
     printf("Enter Base : ");
-    scanf("%d",&base);
+    scanf("%lld",&base);
     printf("Enter Exponent : ");
-    scanf("%d",&exponent);
+    scanf("%lld",&exponent);
     power=pow(base,exponent);
-    printf("%d raised to the Power of %d is : %d\n",base,exponent,power);
+    printf("%lld raised to the Power of %lld is : %lld \n",base,exponent,power);
     return 0;
 }
