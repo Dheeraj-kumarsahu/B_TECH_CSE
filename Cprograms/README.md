@@ -54,33 +54,6 @@ C-Programming/
 
 ---
 
-## ⚙️ How to Run a Program
-
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
-```
-
-**2. Compile with GCC**
-
-```bash
-gcc filename.c -o filename
-```
-
-**3. Run it**
-
-```bash
-# Linux / macOS
-./filename
-
-# Windows
-filename.exe
-```
-
----
-
 ## 🛠️ Tools Used
 
 - **Language:** C
@@ -107,8 +80,7 @@ Found a mistake or know a better way to solve a problem? Feel free to open an **
 
 ## 📬 Contact
 
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your-email@example.com
+- Email: dheerajkumarsahu827@gmial.com
 
 ---
 
