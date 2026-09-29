@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dheeraj-kumarsahu&label=Repository%20Views&color=0e75b6&style=flat)
 
-### 📚 My 4-Year Journey to Become an AI/ML Engineer 🇮🇳 ➜ 🇩🇪
+### 📚 My 4-Year Journey to Become an Computer Science Engineer 🇮🇳 ➜ 🇩🇪
 
 *"Consistency beats intensity."*
 
@@ -20,7 +20,7 @@ Hi, I'm **Dheeraj Kumar Sahu**.
 
 🏫 **Laxmi Chand Institute of Technology, Bilaspur**
 
-🤖 Aspiring **AI/ML Engineer**
+🤖 Aspiring **AI/ML Engineer And CyberSecurity Specalist**
 
 🌍 Long-Term Goal:
 > Work as an AI/ML Engineer in Germany.
@@ -87,7 +87,7 @@ Germany 🇩🇪
 - [x] MySQL Intermediate
 - [x] Python Projects
 - [x] Git & GitHub
-- [ ] C++ Basics
+- [x] C Programming Language
 
 ---
 
@@ -104,7 +104,8 @@ Germany 🇩🇪
 
 ## 📚 Second Year
 
-- [ ]Object-Oriented Programming
+- [x]Object-Oriented Programming
+- [ ]Projects on OPPS Concept
 - [ ]Operating Systems
 - [ ]DBMS
 - [ ]Computer Networks
@@ -143,6 +144,7 @@ B_Tech_Journey/
 ├── Python/
 ├── SQL/ 
 ├── Git/
+├── C_Programming/
 ├── DSA/
 ├── Cpp/
 ├── AI-ML/
@@ -160,7 +162,7 @@ B_Tech_Journey/
 
 | Category | Technologies |
 |-----------|--------------|
-| Languages | Python, C++, SQL |
+| Languages | Python,C,C++, SQL |
 | AI | NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch |
 | Database | MySQL, PostgreSQL |
 | Tools | Git, GitHub, VS Code, Linux |
