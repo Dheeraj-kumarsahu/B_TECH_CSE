@@ -1,4 +1,6 @@
 l=[1, 22, 93, 44, 15]
+print(max(l))
+print(min(l))
 print(l)
 l.append(100)
 l.insert(1,50)
